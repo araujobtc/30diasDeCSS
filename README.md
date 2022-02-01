@@ -16,6 +16,7 @@
 
 * [Dia 01 - Loader animado](#id01)
 * [Dia 02 - Ícones de rede social com efeito](#id02)
+* [Dia 03 - Glassmorphism Card](#id03)
 
   <h2 name="id01">Dia 01 - Loader animado</h2>
   <img src="https://user-images.githubusercontent.com/60933617/151717748-322c83a3-c7dd-4c43-a0c3-5e8ac3e5f805.gif" alt="dia 1" width="600px">
@@ -52,4 +53,18 @@
     <tr><td><a href="https://www.w3schools.com/css/css3_gradients.asp">CSS Gradients</a></td></tr>
     <tr><td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip">-webkit-background-clip</a></td></tr>
     <tr><td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-fill-color">-webkit-text-fill-color</a></td></tr>
+</table>
+
+  <h2 name="id03">Dia 03 - Glassmorphism Card</h2>
+  <img src="https://user-images.githubusercontent.com/60933617/152040643-d2fc3aa7-e2dd-4bb7-b892-6e8b505e9b34.gif" alt="dia 3" width="600px">
+ 
+<table>
+    <br><a href="https://github.com/araujobtc/30diasDeCSS/tree/main/day03">Meu codigo </a>
+    <br><a href="https://www.linkedin.com/posts/isabelle-ferreira-de-araujo_desafio-css-html-activity-6894361303641595904-93Ci">Post LinkedIn</a>
+    <h5>O que eu aprendi</h5>
+    <tr><td><a href="https://www.w3schools.com/css/css3_transitions.asp">transition</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/calc()">calc()</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/sel_hover.asp">:hover</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/pr_class_position.asp">position</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/css/css3_gradients.asp">CSS Gradients</a></td></tr>
 </table>
