@@ -89,11 +89,11 @@
 </table>
 
   <h2 name="id05">Dia 05 - Menu de navegação circular</h2>
-  <img src="#" alt="dia 5" width="600px">
+  <img src="https://user-images.githubusercontent.com/60933617/152454082-92254fc9-e8fc-438a-bbd4-cf7f21701e1e.gif" alt="dia 5" width="600px">
  
 <table>
     <br><a href="https://github.com/araujobtc/30diasDeCSS/tree/main/day05">Meu codigo </a>
-    <br><a href="https://www.linkedin.com/posts/isabelle-ferreira-de-araujo_desafio-css-html-activity-6894839966493724672-Ef5v">Post LinkedIn</a>
+    <br><a href="#">Post LinkedIn</a>
     <h5>O que eu aprendi</h5>
     <tr><td><a href="https://www.w3schools.com/css/css3_transitions.asp">transition</a></td></tr>
     <tr><td><a href="https://www.w3schools.com/cssref/css3_pr_transform.asp">transform</a></td></tr>
