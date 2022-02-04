@@ -1,6 +1,6 @@
 ## 30 Dias de CSS 🚀
  
- Este é um desafio que tem como objetivo por em prática habilidades de codificação com a criação de mini projetos diários utilizando HTML5 e CSS3.
+ Este é um desafio que tem como objetivo por em prática habilidades de codificação com a criação de mini projetos diários utilizando HTML5 e CSS3 (adicionei um pouco de JavaScript).
  
  ###### Criado por [@MilenaCarecho](https://github.com/MilenaCarecho/30diasDeCSS)
  
@@ -18,6 +18,7 @@
 * [Dia 02 - Ícones de rede social com efeito](#id02)
 * [Dia 03 - Glassmorphism Card](#id03)
 * [Dia 04 - Loader animado](#id04)
+* [Dia 05 - Menu de navegação circular](#id05)
 
   <h2 name="id01">Dia 01 - Loader animado</h2>
   <img src="https://user-images.githubusercontent.com/60933617/151717748-322c83a3-c7dd-4c43-a0c3-5e8ac3e5f805.gif" alt="dia 1" width="600px">
@@ -85,4 +86,19 @@
     <tr><td><a href="https://www.w3schools.com/css/css3_animations.asp">animations</a></td></tr>
     <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes">@keyframes</a></td></tr>
     <tr><td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/inset">inset</a></td></tr>
+</table>
+
+  <h2 name="id05">Dia 05 - Menu de navegação circular</h2>
+  <img src="#" alt="dia 5" width="600px">
+ 
+<table>
+    <br><a href="https://github.com/araujobtc/30diasDeCSS/tree/main/day05">Meu codigo </a>
+    <br><a href="https://www.linkedin.com/posts/isabelle-ferreira-de-araujo_desafio-css-html-activity-6894839966493724672-Ef5v">Post LinkedIn</a>
+    <h5>O que eu aprendi</h5>
+    <tr><td><a href="https://www.w3schools.com/css/css3_transitions.asp">transition</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/css3_pr_transform.asp">transform</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/pr_class_position.asp">position</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/calc()">calc()</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/pr_pos_z-index.asp">z-index</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-sizing">box-sizing</a></td></tr>
 </table>
