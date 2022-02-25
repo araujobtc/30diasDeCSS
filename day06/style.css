@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    overflow: hidden;
+}
+
+section{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.show  .profile{
+    display: none;
+}
+
+.profile{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.profile .profile-img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    padding: 2px;
+    background: #4070f4;
+    margin-bottom: 10px;
+}
+
+.profile .profile-img img{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #fff;
+}
+
+.profile .name,
+.profile .profession{
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+}
+
+.profile .profession{
+    font-weight: 400;
+    margin-top: -6px;
+}
+
+.profile .button{
+    display: flex;
+    align-items: center;
+    padding: 12px 20px ;
+    background: #4070f4;
+    margin-top: 15px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.profile .button:hover{
+    background: #275df1;
+}
+
+.profile .button i{
+    color: #fff;
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+.profile .button button{
+    background: none;
+    outline: none;
+    border: none;
+    font-size: 20px;
+    color: #fff;
+    pointer-events: none;
+}
+
+/* popup box */
+
+.popup-outer{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    background:  rgba(0, 0, 0, 0.4);
+    pointer-events: none;
+    opacity: 0;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+    transform: scale(1.2);
+    transition: opacity 0.2s 0s ease-in-out,
+                tranform 0.2s 0s ease-in-out;
+}
+
+section.show  .popup-outer{
+    opacity: 1;
+    transform: scale(1);
+    pointer-events: auto;
+}
+
+
+.popup-box{
+    position: relative;
+    background: #fff;
+    border-radius: 12px;
+    padding: 30px;
+    max-width: 380px;
+    width: 100%;
+}
+
+.popup-box .profile-text{
+    display: flex;
+    align-items: center;
+}
+
+.popup-box .close{
+    font-size: 24px;
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    color: #b4b4b4;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.popup-box .close:hover{
+    color: #333;
+}
+
+.popup-box img{
+    height: 60px;
+    width: 60px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.popup-box .text{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+
+.popup-box .text .name{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.popup-box .text .profession{
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.popup-box textarea{
+    min-height: 140px;
+    width: 100%;
+    margin-top: 20px;
+    outline: none;
+    border: 1px solid #ddd;
+    padding: 12px;
+    border-radius: 6px;
+    resize: none;
+    font-size: 14px;
+    font-weight: 400;
+    background: #f3f3f3;
+}
+
+.popup-box .button{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15px;
+}
+
+.popup-box .button button{
+    outline: none;
+    background: #6f93f6;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 6px;
+    margin-left: 8px;
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.3 ease;
+}
+
+.popup-box .button button.cancel{
+    background: #f082ac;
+}
+
+.popup-box .button button.cancel:hover{
+    background: #ec5f95;
+}
+
+.popup-box .button button.send:hover{
+    background: #275df1;
+}

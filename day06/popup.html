@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css">
+    <title>Popup</title>
+</head>
+<body>
+    <section>
+        <div class="profile">
+            <div class="profile-img">
+                <img src="img/profile.jpg" alt="Perfil">
+            </div>
+            <span class="name">Isabelle Araujo</span>
+            <span class="profession">Técnica em Informática</span>
+            <div id="hireBtn" class="button">
+                <i class="bx bxs-envelope"></i>
+                <button>Me contrate</button>
+            </div>
+        </div>
+
+        <!-- Popup box -->
+
+        <div class="popup-outer">
+            <div class="popup-box">
+                <i id="close" class="bx bx-x close"></i>
+                <div class="profile-text">
+                    <img src="img/profile.jpg" alt="Perfil">
+                    <div class="text">
+                        <span class="name">Isabelle Araujo</span>
+                        <span class="profession">Técnica em Informática</span>          
+                    </div>
+                </div>
+                <textarea placeholder="Escreva sua mensagem aqui"></textarea>
+                <div class="button">
+                    <button id="close" class="cancel">Cancelar</button>
+                    <button class="send">Enviar</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        const section = document.querySelector('section'),
+        hireBtn = section.querySelector('#hireBtn'),
+        closeBtn = section.querySelectorAll('#close');
+
+        hireBtn.addEventListener('click', () =>{
+            section.classList.add('show');
+        })
+
+        closeBtn.forEach(cBtn => {
+            cBtn.addEventListener('click', () =>{
+                section.classList.remove('show');
+            });
+        });
+    </script>
+</body>
+</html>

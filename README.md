@@ -19,6 +19,7 @@
 * [Dia 03 - Glassmorphism Card](#id03)
 * [Dia 04 - Loader animado](#id04)
 * [Dia 05 - Menu de navegação circular](#id05)
+* [Dia 06 - Popup para mensagem](#id06)
 
   <h2 name="id01">Dia 01 - Loader animado</h2>
   <img src="https://user-images.githubusercontent.com/60933617/151717748-322c83a3-c7dd-4c43-a0c3-5e8ac3e5f805.gif" alt="dia 1" width="600px">
@@ -101,4 +102,20 @@
     <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/calc()">calc()</a></td></tr>
     <tr><td><a href="https://www.w3schools.com/cssref/pr_pos_z-index.asp">z-index</a></td></tr>
     <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-sizing">box-sizing</a></td></tr>
+</table>
+
+  <h2 name="id06">Dia 06 - Popup para mensagem</h2>
+  <img src="https://user-images.githubusercontent.com/60933617/155744469-ebb9c546-708d-4256-be41-21bf3ed5132c.gif" alt="dia 6" width="600px">
+ 
+<table>
+    <br><a href="https://github.com/araujobtc/30diasDeCSS/tree/main/day06">Meu codigo </a>
+    <br><a href="https://www.linkedin.com/posts/isabelle-ferreira-de-araujo_desafio-css-html-activity-6903006664598110208-RJ5x">Post LinkedIn</a>
+    <h5>O que eu aprendi</h5>
+    <tr><td><a href="https://www.w3schools.com/css/css3_transitions.asp">transition</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/css3_pr_transform.asp">transform</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/pr_class_position.asp">position</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-sizing">box-sizing</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/sel_hover.asp">:hover</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/css/css_image_transparency.asp">box-shadow</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/css/css_overflow.asp">overflow</a></td></tr>
 </table>
