@@ -93,7 +93,7 @@
  
 <table>
     <br><a href="https://github.com/araujobtc/30diasDeCSS/tree/main/day05">Meu codigo </a>
-    <br><a href="#">Post LinkedIn</a>
+    <br><a href="https://www.linkedin.com/posts/isabelle-ferreira-de-araujo_desafio-css-html-activity-6902776604351963136-QVYe">Post LinkedIn</a>
     <h5>O que eu aprendi</h5>
     <tr><td><a href="https://www.w3schools.com/css/css3_transitions.asp">transition</a></td></tr>
     <tr><td><a href="https://www.w3schools.com/cssref/css3_pr_transform.asp">transform</a></td></tr>
