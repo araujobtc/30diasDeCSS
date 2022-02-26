@@ -119,3 +119,21 @@
     <tr><td><a href="https://www.w3schools.com/css/css_image_transparency.asp">box-shadow</a></td></tr>
     <tr><td><a href="https://www.w3schools.com/css/css_overflow.asp">overflow</a></td></tr>
 </table>
+
+  <h2 name="id07">Dia 07 - Borda animada</h2>
+  <img src="https://user-images.githubusercontent.com/60933617/155749101-ac790522-cf23-4be8-b789-c46d79ebfbf6.gif" alt="dia 7" width="600px">
+ 
+<table>
+    <br><a href="https://github.com/araujobtc/30diasDeCSS/tree/main/day07">Meu codigo </a>
+    <br><a href="https://www.linkedin.com/posts/isabelle-ferreira-de-araujo_desafio-css-html-activity-6903306796203933696-8RK_">Post LinkedIn</a>
+    <h5>O que eu aprendi</h5>
+    <tr><td><a href="https://www.w3schools.com/cssref/css3_pr_transform.asp">transform</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/pr_class_position.asp">position</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-sizing">box-sizing</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/css/css_overflow.asp">overflow</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/sel_before.asp">::before</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/::after">::after</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/css/css3_animations.asp">animations</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes">@keyframes</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/inset">inset</a></td></tr>
+</table>
