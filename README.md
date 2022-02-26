@@ -20,6 +20,7 @@
 * [Dia 04 - Loader animado](#id04)
 * [Dia 05 - Menu de navegação circular](#id05)
 * [Dia 06 - Popup para mensagem](#id06)
+* [Dia 07 - Borda animada](#id07)
 
   <h2 name="id01">Dia 01 - Loader animado</h2>
   <img src="https://user-images.githubusercontent.com/60933617/151717748-322c83a3-c7dd-4c43-a0c3-5e8ac3e5f805.gif" alt="dia 1" width="600px">
