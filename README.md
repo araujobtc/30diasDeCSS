@@ -21,6 +21,7 @@
 * [Dia 05 - Menu de navegação circular](#id05)
 * [Dia 06 - Popup para mensagem](#id06)
 * [Dia 07 - Borda animada](#id07)
+* [Dia 08 - Menu animado](#id08)
 
   <h2 name="id01">Dia 01 - Loader animado</h2>
   <img src="https://user-images.githubusercontent.com/60933617/151717748-322c83a3-c7dd-4c43-a0c3-5e8ac3e5f805.gif" alt="dia 1" width="600px">
@@ -137,4 +138,22 @@
     <tr><td><a href="https://www.w3schools.com/css/css3_animations.asp">animations</a></td></tr>
     <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes">@keyframes</a></td></tr>
     <tr><td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/inset">inset</a></td></tr>
+</table>
+
+  <h2 name="id08">Dia 08 - Menu animado</h2>
+  <img src="https://user-images.githubusercontent.com/60933617/155842628-25759107-f168-46f4-9389-e9ecc8cd349f.gif" alt="dia 8" width="600px">
+ 
+<table>
+    <br><a href="https://github.com/araujobtc/30diasDeCSS/tree/main/day08">Meu codigo </a>
+    <br><a href="https://www.linkedin.com/posts/isabelle-ferreira-de-araujo_desafio-css-html-activity-6904164315818270720-pfAC">Post LinkedIn</a>
+    <h5>O que eu aprendi</h5>
+    <tr><td><a href="https://www.w3schools.com/cssref/css3_pr_transform.asp">transform</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-sizing">box-sizing</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/css/css_overflow.asp">overflow</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/sel_before.asp">::before</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/sel_hover.asp">:hover</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke">-webkit-text-stroke</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/css3_pr_filter.asp">filter</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/attr()">attr</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/css3_pr_gap.asp">gap</a></td></tr>
 </table>
