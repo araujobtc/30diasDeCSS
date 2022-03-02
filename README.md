@@ -23,6 +23,7 @@
 * [Dia 07 - Borda animada](#id07)
 * [Dia 08 - Menu animado](#id08)
 * [Dia 09 - Botões criativos](#id09)
+* [Dia 10 - Botões com efeitos](#id10)
 
   <h2 name="id01">Dia 01 - Loader animado</h2>
   <img src="https://user-images.githubusercontent.com/60933617/151717748-322c83a3-c7dd-4c43-a0c3-5e8ac3e5f805.gif" alt="dia 1" width="600px">
@@ -172,4 +173,20 @@
     <tr><td><a href="https://www.w3schools.com/css/css3_transitions.asp">transition</a></td></tr>
     <tr><td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/appearance">appearance</a></td></tr>
     <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/Building_blocks/Selectors">selectors</a></td></tr>
+</table>
+
+  <h2 name="id10">Dia 10 - Botões com efeitos</h2>
+  <img src="https://user-images.githubusercontent.com/60933617/156441106-94961487-a788-49cb-99b9-1cd3e363c63f.gif" alt="dia 10" width="600px">
+ 
+<table>
+    <br><a href="https://github.com/araujobtc/30diasDeCSS/tree/main/day10">Meu codigo</a>
+    <br><a href="https://www.linkedin.com/posts/isabelle-ferreira-de-araujo_desafio-css-html-activity-6904880514088734720-VxP2">Post LinkedIn</a>
+    <h5>O que eu aprendi</h5>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-sizing">box-sizing</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/css/css_overflow.asp">overflow</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/sel_before.asp">::before</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/sel_hover.asp">:hover</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/css/css3_transitions.asp">transition</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/pr_pos_z-index.asp">z-index</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/pr_class_position.asp">position</a></td></tr>
 </table>
