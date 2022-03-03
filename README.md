@@ -24,6 +24,7 @@
 * [Dia 08 - Menu animado](#id08)
 * [Dia 09 - Botões criativos](#id09)
 * [Dia 10 - Botões com efeitos](#id10)
+* [Dia 11 - Cards com efeitos](#id11)
 
   <h2 name="id01">Dia 01 - Loader animado</h2>
   <img src="https://user-images.githubusercontent.com/60933617/151717748-322c83a3-c7dd-4c43-a0c3-5e8ac3e5f805.gif" alt="dia 1" width="600px">
@@ -189,4 +190,20 @@
     <tr><td><a href="https://www.w3schools.com/css/css3_transitions.asp">transition</a></td></tr>
     <tr><td><a href="https://www.w3schools.com/cssref/pr_pos_z-index.asp">z-index</a></td></tr>
     <tr><td><a href="https://www.w3schools.com/cssref/pr_class_position.asp">position</a></td></tr>
+</table>
+
+  <h2 name="id11">Dia 11 - Cards com efeitos</h2>
+  <img src="https://user-images.githubusercontent.com/60933617/156445429-862e3e47-b5ba-4e52-90e7-1b74995cafa5.gif" alt="dia 11" width="600px">
+ 
+<table>
+    <br><a href="https://github.com/araujobtc/30diasDeCSS/tree/main/day11">Meu codigo</a>
+    <br><a href="https://www.linkedin.com/posts/isabelle-ferreira-de-araujo_desafio-css-html-activity-6905197036908425216-yXit">Post LinkedIn</a>
+    <h5>O que eu aprendi</h5>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-sizing">box-sizing</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/sel_hover.asp">:hover</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/css/css3_transitions.asp">transition</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/grid-template-columns">grid-template-columns</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/gap">grid-gap</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/pr_class_display.asp">display</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/css3_pr_transform.asp">transform</a></td></tr>
 </table>
