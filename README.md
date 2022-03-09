@@ -27,6 +27,7 @@
 * [Dia 11 - Cards com efeitos](#id11)
 * [Dia 12 - Formulário de Login](#id12)
 * [Dia 13 - Card de apresentação](#id13)
+* [Dia 14 - Card para E-commerce](#id14)
 
   <h2 name="id01">Dia 01 - Loader animado</h2>
   <img src="https://user-images.githubusercontent.com/60933617/151717748-322c83a3-c7dd-4c43-a0c3-5e8ac3e5f805.gif" alt="dia 1" width="600px">
@@ -232,8 +233,20 @@
     <br><a href="https://www.linkedin.com/posts/isabelle-ferreira-de-araujo_desafio-css-html-activity-6906802504307212288-ji2u">Post LinkedIn</a>
     <h5>O que eu aprendi</h5>
     <tr><td><a href="https://www.w3schools.com/css/css3_transitions.asp">transition</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/sel_hover.asp">:hover</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child">:nth-child</a></td></tr>
+</table>
+
+  <h2 name="id14">Dia 14 - Card para E-commerce</h2>
+  <img src="https://user-images.githubusercontent.com/60933617/157360662-3d78e5ab-d8d9-4568-ab80-2412d96538c1.gif" alt="dia 14" width="600px">
+ 
+<table>
+    <br><a href="https://github.com/araujobtc/30diasDeCSS/tree/main/day14">Meu codigo</a>
+    <br><a href="https://www.linkedin.com/posts/isabelle-ferreira-de-araujo_desafio-css-html-activity-6907149084306874368-q0Td">Post LinkedIn</a>
+    <h5>O que eu aprendi</h5>
+    <tr><td><a href="https://www.w3schools.com/css/css3_transitions.asp">transition</a></td></tr>
     <tr><td><a href="https://www.w3schools.com/cssref/css3_pr_transform.asp">transform</a></td></tr>
-    <tr><td><a href="https://www.w3schools.com/css/css_attribute_selectors.asp">attribute selectors</a></td></tr>
-    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/:focus">:focus</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/css/css_overflow.asp">overflow</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/sel_before.asp">::before</a></td></tr>
     <tr><td><a href="https://www.w3schools.com/cssref/sel_hover.asp">:hover</a></td></tr>
 </table>
