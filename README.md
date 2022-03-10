@@ -28,6 +28,7 @@
 * [Dia 12 - Formulário de Login](#id12)
 * [Dia 13 - Card de apresentação](#id13)
 * [Dia 14 - Card para E-commerce](#id14)
+* [Dia 15 - Menu acordeão](#id15)
 
   <h2 name="id01">Dia 01 - Loader animado</h2>
   <img src="https://user-images.githubusercontent.com/60933617/151717748-322c83a3-c7dd-4c43-a0c3-5e8ac3e5f805.gif" alt="dia 1" width="600px">
@@ -234,7 +235,7 @@
     <h5>O que eu aprendi</h5>
     <tr><td><a href="https://www.w3schools.com/css/css3_transitions.asp">transition</a></td></tr>
     <tr><td><a href="https://www.w3schools.com/cssref/sel_hover.asp">:hover</a></td></tr>
-    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child">:nth-child</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child">:nth-child</a></td></tr> 
 </table>
 
   <h2 name="id14">Dia 14 - Card para E-commerce</h2>
@@ -249,4 +250,22 @@
     <tr><td><a href="https://www.w3schools.com/css/css_overflow.asp">overflow</a></td></tr>
     <tr><td><a href="https://www.w3schools.com/cssref/sel_before.asp">::before</a></td></tr>
     <tr><td><a href="https://www.w3schools.com/cssref/sel_hover.asp">:hover</a></td></tr>
+</table>
+
+  <h2 name="id15">Dia 15 - Menu acordeão</h2>
+  <img src="https://user-images.githubusercontent.com/60933617/157585694-227b0f2c-ff0c-4933-bed3-faa01fe4c9b4.gif" alt="dia 15" width="600px">
+ 
+<table>
+    <br><a href="https://github.com/araujobtc/30diasDeCSS/tree/main/day15">Meu codigo</a>
+    <br><a href="https://www.linkedin.com/posts/isabelle-ferreira-de-araujo_desafio-css-html-activity-6907535013769023488-E1sx">Post LinkedIn</a>
+    <h5>O que eu aprendi</h5>
+    <tr><td><a href="https://www.w3schools.com/css/css3_transitions.asp">transition</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/css3_pr_transform.asp">transform</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/@media">@media</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/:target">:target</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/::after">::after</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/sel_before.asp">::before</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/calc()">calc()</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-size">background-size</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/flex-wrap">flex-wrap</a></td></tr>
 </table>
