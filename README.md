@@ -29,6 +29,7 @@
 * [Dia 13 - Card de apresentação](#id13)
 * [Dia 14 - Card para E-commerce](#id14)
 * [Dia 15 - Menu acordeão](#id15)
+* [Dia 16 - Card para E-commerce](#id16)
 
   <h2 name="id01">Dia 01 - Loader animado</h2>
   <img src="https://user-images.githubusercontent.com/60933617/151717748-322c83a3-c7dd-4c43-a0c3-5e8ac3e5f805.gif" alt="dia 1" width="600px">
@@ -267,5 +268,21 @@
     <tr><td><a href="https://www.w3schools.com/cssref/sel_before.asp">::before</a></td></tr>
     <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/calc()">calc()</a></td></tr>
     <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-size">background-size</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/flex-wrap">flex-wrap</a></td></tr>
+</table>
+
+  <h2 name="id16">Dia 16 - Card para E-commerce</h2>
+  <img src="https://user-images.githubusercontent.com/60933617/157720470-c5f34b11-f576-4cbd-b53c-0aefec70c8fa.gif" alt="dia 16" width="600px">
+ 
+<table>
+    <br><a href="https://github.com/araujobtc/30diasDeCSS/tree/main/day16">Meu codigo</a>
+    <br><a href="https://www.linkedin.com/posts/isabelle-ferreira-de-araujo_desafio-css-html-activity-6907720852507619328-eyfP">Post LinkedIn</a>
+    <h5>O que eu aprendi</h5>
+    <tr><td><a href="https://www.w3schools.com/css/css3_transitions.asp">transition</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/@media">@media</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/sel_hover.asp">:hover</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/flex">flex</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/pr_class_display.asp">display</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/css/css_overflow.asp">overflow</a></td></tr>
     <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/flex-wrap">flex-wrap</a></td></tr>
 </table>
