@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Barra de pesquisa</title>
+</head>
+<body>
+    <div class="search">
+        <div class="icon"></div>
+        <div class="input">
+            <input type="text" placeholder="Pesquisar" id="mysearch">
+        </div>
+        <span class="clear"></span>
+    </div>
+
+    <script>
+        const icon =  document.querySelector('.icon');
+        const search =  document.querySelector('.search');
+        const clear =  document.querySelector('.clear');
+        const mysearch =  document.querySelector('#mysearch');
+
+        icon.onclick = function(){
+            search.classList.toggle('active');
+        }
+        clear.onclick = function(){
+            mysearch.value = '';
+        }
+    </script>
+</body>
+</html>

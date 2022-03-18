@@ -32,6 +32,7 @@
 * [Dia 16 - Card para E-commerce](#id16)
 * [Dia 17 - Card formulário](#id17)
 * [Dia 18 - Card para post](#id18)
+* [Dia 19 - Footer animado](#id19)
 
   <h2 name="id01">Dia 01 - Loader animado</h2>
   <img src="https://user-images.githubusercontent.com/60933617/151717748-322c83a3-c7dd-4c43-a0c3-5e8ac3e5f805.gif" alt="dia 1" width="600px">
@@ -317,4 +318,19 @@
     <tr><td><a href="https://www.w3schools.com/css/css_overflow.asp">overflow</a></td></tr>
     <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/flex-wrap">flex-wrap</a></td></tr>
     <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/@media">@media</a></td></tr>
+</table>
+
+  <h2 name="id19">Dia 19 - Footer animado</h2>
+  <img src="https://user-images.githubusercontent.com/60933617/159095527-67822c90-4914-48e5-b78a-ba57f2d0ee72.gif" alt="dia 19" width="600px">
+ 
+<table>
+    <br><a href="https://github.com/araujobtc/30diasDeCSS/tree/main/day19">Meu codigo</a>
+    <br><a href="https://www.linkedin.com/posts/isabelle-ferreira-de-araujo_desafio-css-html-activity-6910723470595104768-LrDS?utm_source=linkedin_share&utm_medium=member_desktop_web">Post LinkedIn</a>
+    <h5>O que eu aprendi</h5>
+    <tr><td><a href="https://www.w3schools.com/cssref/css3_pr_transform.asp">transform</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/css/css3_transitions.asp">transition</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/css/css_overflow.asp">overflow</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/pr_class_position.asp">position</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/sel_before.asp">::before</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/::after">::after</a></td></tr>
 </table>
