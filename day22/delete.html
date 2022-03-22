@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<title>Botão de deletar</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<a href="#" class="btn">
+		<span></span>
+		<text>Deletar</text>
+	</a>
+	<script>
+		let btn = document.querySelector('.btn');
+		btn.onclick = function(){
+			btn.classList.add('active');
+			if (btn.classList.contains('active')){
+				window.setTimeout(function(){
+					btn.classList.remove('active');
+				}, 2500);
+			}
+		}
+	</script>
+</body>
+</html>
