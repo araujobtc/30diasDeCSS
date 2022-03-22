@@ -34,6 +34,7 @@
 * [Dia 18 - Card para post](#id18)
 * [Dia 19 - Footer animado](#id19)
 * [Dia 20 - Menu de navegação](#id20)
+* [Dia 21 - Loader animado](#id21)
 
   <h2 name="id01">Dia 01 - Loader animado</h2>
   <img src="https://user-images.githubusercontent.com/60933617/151717748-322c83a3-c7dd-4c43-a0c3-5e8ac3e5f805.gif" alt="dia 1" width="600px">
@@ -352,4 +353,18 @@
     <tr><td><a href="https://www.w3schools.com/cssref/css3_pr_gap.asp">gap</a></td></tr>
     <tr><td><a href="https://www.w3schools.com/css/css_image_transparency.asp">box-shadow</a></td></tr>
     <tr><td><a href="https://www.w3schools.com/cssref/css3_pr_filter.asp">filter</a></td></tr>
+</table>
+
+  <h2 name="id21">Dia 21 - Loader animado</h2>
+  <img src="https://user-images.githubusercontent.com/60933617/159392630-1d9db8ff-e14f-4c5d-b93a-de66ac6a469b.gif" alt="dia 21" width="600px">
+ 
+<table>
+    <br><a href="https://github.com/araujobtc/30diasDeCSS/tree/main/day21">Meu codigo</a>
+    <br><a href="https://www.linkedin.com/posts/isabelle-ferreira-de-araujo_desafio-css-html-activity-6911857064348659712-aBtb?utm_source=linkedin_share&utm_medium=member_desktop_web">Post LinkedIn</a>
+    <h5>O que eu aprendi</h5>
+    <tr><td><a href="https://www.w3schools.com/cssref/css3_pr_transform.asp">transform</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/pr_class_display.asp">display</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes">@keyframes</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/css/css3_animations.asp">animations</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child">:nth-child</a></td></tr> 
 </table>
