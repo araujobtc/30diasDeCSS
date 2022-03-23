@@ -1,0 +1,107 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --red: #ff004c;
+  --green: #01ff5f;
+  --grey: #cecece;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #222;
+  overflow: hidden;
+}
+
+label {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  margin: 45px;
+}
+
+label input {
+  appearance: none;
+}
+
+.face {
+  position: absolute;
+  inset: 0;
+  background: #333;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+label .face::before {
+  content: '';
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 15px;
+  height: 15px;
+  background: #111;
+  box-shadow: 45px 0 0 #111;
+  border-radius: 50%;
+  opacity: 0.5;
+}
+
+label .face::after{
+  content: '';
+  position: absolute;
+  bottom: 35%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #111;
+  transition: 0.5s;
+  width: 40px;
+  opacity: 0.5;
+}
+
+label:nth-child(1) .face::after{
+  height: 20px;
+  transform: translateX(-50%) translateY(10px);
+  border-radius: 0;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+label:nth-child(2) .face::after{
+  height: 8px;
+  border-bottom-left-radius: -120px;
+  border-radius: 8px;
+}
+
+label:nth-child(3) .face::after{
+  height: 20px;
+  bottom: 30%; 
+  background: #333;
+  border-radius: 0;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  box-shadow: 0 -8px 0 #111;
+  transform: translateX(-50%) translateY(10px);
+  transition: 0.7;
+}
+
+label:nth-child(1) .rate.active ~ .face {
+  background: var(--green);
+  filter: drop-shadow(0 0 10px var(--green)) drop-shadow(0 0 25px var(--green)) drop-shadow(0 0 25px var(--green));
+}
+
+label:nth-child(2) .rate.active ~ .face {
+  background: var(--grey);
+  filter: drop-shadow(0 0 10px var(--grey)) drop-shadow(0 0 25px var(--grey)) drop-shadow(0 0 25px var(--grey));
+}
+
+label:nth-child(3) .rate.active ~ .face,
+label:nth-child(3) .rate.active ~ .face::after{
+  background: var(--red);
+  filter: drop-shadow(0 0 10px var(--red)) drop-shadow(0 0 25px var(--red)) drop-shadow(0 0 25px var(--red));
+}

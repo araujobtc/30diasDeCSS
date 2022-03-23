@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title>Efeito para classificação</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<label>
+		<input class="rate" id="green" type="radio" alt="Bom">
+		<div class="face"></div>
+	</label>
+	<label>
+		<input class="rate" id="grey" type="radio" alt="Chato">
+		<div class="face"></div>
+	</label>
+	<label>
+		<input class="rate" id="red" type="radio" alt="Ruim">
+		<div class="face"></div>
+	</label>
+	
+	<script>
+		let good = document.querySelector('#green');
+		let bored = document.querySelector('#grey');
+		let bad = document.querySelector('#red');
+
+		function rate(r1, r2, r3){
+			r1.classList.toggle('active');
+			r2.classList.remove('active');
+			r3.classList.remove('active');
+		}
+
+		good.onclick = function(){rate(good, bored, bad);}
+		bored.onclick = function(){rate(bored, good, bad);}
+		bad.onclick = function(){rate(bad, good, bored);}
+	</script>
+</body>
+</html>
+
+
