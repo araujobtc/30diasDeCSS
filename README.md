@@ -37,6 +37,7 @@
 * [Dia 21 - Loader animado](#id21)
 * [Dia 22 - Botão de deletar](#id22)
 * [Dia 23 - Botão para avaliação](#id23)
+* [Dia 24 - Barra de porcentagem](#id24)
 
   <h2 name="id01">Dia 01 - Loader animado</h2>
   <img src="https://user-images.githubusercontent.com/60933617/151717748-322c83a3-c7dd-4c43-a0c3-5e8ac3e5f805.gif" alt="dia 1" width="600px">
@@ -403,4 +404,18 @@
     <tr><td><a href="https://www.w3schools.com/css/css_overflow.asp">overflow</a></td></tr>
     <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child">:nth-child</a></td></tr> 
     <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/Building_blocks/Selectors">selectors</a></td></tr>
+</table>
+
+  <h2 name="id24">Dia 24 - Barra de porcentagem</h2>
+  <img src="https://user-images.githubusercontent.com/60933617/160221726-6403da91-84f3-43a8-965c-9beac8dbde63.gif" alt="dia 24" width="600px">
+ 
+<table>
+    <br><a href="https://github.com/araujobtc/30diasDeCSS/tree/main/day24">Meu codigo</a>
+    <br><a href="https://www.linkedin.com/posts/isabelle-ferreira-de-araujo_desafio-css-html-activity-6913313901979803649-4nQI?utm_source=linkedin_share&utm_medium=member_desktop_web">Post LinkedIn</a>
+    <h5>O que eu aprendi</h5>
+    <tr><td><a href="https://www.w3schools.com/cssref/css3_pr_transform.asp">transform</a></td></tr>
+    <tr><td><a href="https://www.w3schools.com/cssref/sel_before.asp">::before</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/::after">::after</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-sizing">box-sizing</a></td></tr>
+    <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes">@keyframes</a></td></tr>
 </table>
