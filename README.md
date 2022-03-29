@@ -32,7 +32,7 @@
 * [Dia 16 - Card para E-commerce](#id16)
 * [Dia 17 - Card formulário](#id17)
 * [Dia 18 - Card para post](#id18)
-* [Dia 19 - Footer animado](#id19)
+* [Dia 19 - Barra de pesquisa](#id19)
 * [Dia 20 - Menu de navegação](#id20)
 * [Dia 21 - Loader animado](#id21)
 * [Dia 22 - Botão de deletar](#id22)
@@ -329,7 +329,7 @@
     <tr><td><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/@media">@media</a></td></tr>
 </table>
 
-  <h2 name="id19">Dia 19 - Footer animado</h2>
+  <h2 name="id19">Dia 19 - Barra de pesquisa</h2>
   <img src="https://user-images.githubusercontent.com/60933617/159095527-67822c90-4914-48e5-b78a-ba57f2d0ee72.gif" alt="dia 19" width="600px">
  
 <table>
